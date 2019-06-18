@@ -12,3 +12,9 @@
 6. Handlebars
 
 
+### This application retrieves the following:
+
+ * Headline 
+ * Summary 
+ * URL 
+ * Photo
