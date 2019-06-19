@@ -1,6 +1,7 @@
 # WebScrapeMongoDB
 
 ## A web scraping application for headline news 
+Whenever a user visits the site, the app scrapes stories from a news outlet and displays them for the user. Each scraped article is saved in the application database. 
 
 ### This application uses the following:
 
