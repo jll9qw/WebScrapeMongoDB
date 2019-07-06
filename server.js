@@ -10,11 +10,6 @@ const app = express();
 const router = express.Router();
 
 
-
-// First, tell the console what server3.js is doing
-console.log("\n******************************************\n" +
-            "Connected! \n" );
-
 // Serve static content for the app from the "public" directory in the application directory.
 app.use(express.static("public"));
 
