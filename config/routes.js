@@ -4,7 +4,7 @@ module.exports = function(router){
     res.render("home"); 
   });
 
-  router.get("/saved", function(router){
+  router.get("/saved", function(req, res){
     res.render("saved");
-  })
+  });
 }
